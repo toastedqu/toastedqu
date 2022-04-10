@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://toastedtofu.github.io/sitemap.xml
